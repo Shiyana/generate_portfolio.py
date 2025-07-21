@@ -63,3 +63,17 @@ This document provides an overview of capital and operational expenditures for A
 - **Long-Term Viability:** GPU reuse and power-optimized scheduling help extend infrastructure life.
 
 ---
+
+---
+
+## 7. Institutional AI Center Cost Examples
+
+| Institution                                   | Total Investment | Key Features / Takeaway |
+|-----------------------------------------------|-----------------|-------------------------|
+| **University of Florida – AI Supercomputing Center** | $70M            | HiPerGator AI supercomputer, $25M NVIDIA hardware/software donation. Focus: agriculture, medicine, climate, ethics. Public-private partnership. |
+| **MIT Schwarzman College of Computing**       | $1B             | $350M donation from Stephen Schwarzman. Interdisciplinary AI research, ethics, policy, and leadership focus. |
+| **San Diego Supercomputer Center (SDSC)**     | $11.5M (Expanse system) | NSF-funded AI/HPC system for AI/ML and biomedical modeling. Federated access model. |
+| **MGHPCC (Massachusetts Green HPC Center)**   | $90M            | Shared facility across Harvard, MIT, BU, Northeastern, UMass. Green energy via hydro power. |
+| **University of Tennessee + Oak Ridge (Frontier)** | $600M+          | World's fastest supercomputer (as of 2022). National AI and scientific modeling. |
+
+---
